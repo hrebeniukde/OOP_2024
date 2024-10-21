@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/fly.png</file>
+        <file>assets/plant_trap.png</file>
+    </qresource>
+</RCC>
